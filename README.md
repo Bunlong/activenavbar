@@ -1,4 +1,4 @@
-# Activenavbar [![Gem Version](https://badge.fury.io/rb/activenavbar.svg)](http://badge.fury.io/rb/activenavbar) [![Coverage Status](https://coveralls.io/repos/Bunlong/activenavbar/badge.png)](https://coveralls.io/r/Bunlong/activenavbar)
+# Activenavbar [![Gem Version](https://badge.fury.io/rb/activenavbar.svg)](http://badge.fury.io/rb/activenavbar)
 
 active navbar is used to set the active navbar link, a navbar link becomes active when you click on it.
 
