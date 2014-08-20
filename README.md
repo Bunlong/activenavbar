@@ -1,4 +1,4 @@
-# Activenavbar
+# Activenavbar [![Gem Version](https://badge.fury.io/rb/activenavbar.svg)](http://badge.fury.io/rb/activenavbar)
 
 active navbar is used to set the active navbar link, a navbar link becomes active when you click on it.
 
