@@ -10,7 +10,7 @@ The simplest way to install is to use Bundler.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'activenavbar'
+gem 'activenavbar', '~> 1.0.4'
 ```
 
 And then execute:
