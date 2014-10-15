@@ -66,7 +66,7 @@ Assume we have style sheet for navbar below:
 Now we want a navbar link becomes active when we click on it:
 
     %ul
-      = navbar_link "Home", homes_path, "active"
+      = navbar_link "Home", root_path, "active"
       = navbar_link "Food", posts_path, "active"
       = navbar_link "Beverage", categories_path, "active"
 
@@ -75,7 +75,7 @@ Well, Home link becomes active when we click on Home link.
 HTML output:
 
     <ul>
-      <li class="active"><a href="/homes">Home</a></li>
+      <li class="active"><a href="/">Home</a></li>
       <li class=""><a href="/posts">Post</a></li>
       <li class=""><a href="/categories">Category</a></li>
     </ul>
