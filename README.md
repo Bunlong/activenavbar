@@ -67,7 +67,7 @@ Now we want a navbar link becomes active when we click on it:
 
     %ul
       = navbar_link "Home", root_path, "active"
-      = navbar_link "Food", posts_path, "active"
+      = navbar_link '<span class="glyphicon glyphicon-heart"></span> Food', posts_path, "active"
       = navbar_link "Beverage", categories_path, "active"
 
 Well, Home link becomes active when we click on Home link.
@@ -76,8 +76,8 @@ HTML output:
 
     <ul>
       <li class="active"><a href="/">Home</a></li>
-      <li class=""><a href="/posts">Post</a></li>
-      <li class=""><a href="/categories">Category</a></li>
+      <li class=""><a href="/foods"><span class="glyphicon glyphicon-heart"></span>Food</a></li>
+      <li class=""><a href="/beverages">Beverage</a></li>
     </ul>
 
 Say hi to me @bunlongvan
