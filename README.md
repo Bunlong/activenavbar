@@ -31,15 +31,15 @@ Or install it yourself as:
 
 ## Usage
 
-Assume we have home, post and category page, and have navbar for each page below:
+Assume we have home, food and beverage page, and have navbar for each page below:
 
     %ul
       %li
         = link_to "Home", homes_path
       %li
-        = link_to "Food", posts_path
+        = link_to "Food", foods_path
       %li
-        = link_to "Beverage", categories_path
+        = link_to "Beverage", beverages_path
 
 Assume we have style sheet for navbar below:
 
@@ -67,8 +67,8 @@ Now we want a navbar link becomes active when we click on it:
 
     %ul
       = navbar_link "Home", root_path, "active"
-      = navbar_link '<span class="glyphicon glyphicon-heart"></span> Food', posts_path, "active"
-      = navbar_link "Beverage", categories_path, "active"
+      = navbar_link '<span class="glyphicon glyphicon-heart"></span> Food', foods_path, "active"
+      = navbar_link "Beverage", beverages_path, "active"
 
 Well, Home link becomes active when we click on Home link.
 
