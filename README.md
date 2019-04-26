@@ -1,4 +1,4 @@
-# Activenavbar [![Gem Version](https://badge.fury.io/rb/activenavbar.svg)](http://badge.fury.io/rb/activenavbar) ![Gem Total Downloads](https://img.shields.io/gem/dt/activenavbar.svg)](https://rubygems.org/gems/activenavbar)
+# Activenavbar [![Gem Version](https://badge.fury.io/rb/activenavbar.svg)](http://badge.fury.io/rb/activenavbar) [![Gem Total Downloads](https://img.shields.io/gem/dt/activenavbar.svg)](https://rubygems.org/gems/activenavbar)
 
 active navbar is used to set the active navbar link, a navbar link becomes active when you click on it.
 
