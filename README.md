@@ -82,6 +82,6 @@ HTML output:
 
 ## License
 
-[MIT License](http://www.opensource.org/licenses/mit-license.php)
+[MIT License](https://github.com/Bunlong/activenavbar/blob/master/LICENSE)
 
-Copyright (c) 2016-Present, [Bunlong VAN (activenavbar Maintainer)](https://github.com/Bunlong)
+Copyright (c) 2014 - Present, [Bunlong VAN](https://github.com/Bunlong) ( Maintainer )
