@@ -1,4 +1,4 @@
-# Activenavbar [![Gem Version](https://badge.fury.io/rb/activenavbar.svg)](http://badge.fury.io/rb/activenavbar)
+# Activenavbar [![Gem Version](https://badge.fury.io/rb/activenavbar.svg)](http://badge.fury.io/rb/activenavbar) ![Gem Total Downloads](https://img.shields.io/gem/dt/activenavbar.svg)](https://rubygems.org/gems/activenavbar)
 
 active navbar is used to set the active navbar link, a navbar link becomes active when you click on it.
 
@@ -80,4 +80,8 @@ HTML output:
       <li class=""><a href="/beverages">Beverage</a></li>
     </ul>
 
-Say hi to me @bunlongvan
+## License
+
+[MIT License](http://www.opensource.org/licenses/mit-license.php)
+
+Copyright (c) 2016-Present, [Bunlong VAN (activenavbar Maintainer)](https://github.com/Bunlong)
